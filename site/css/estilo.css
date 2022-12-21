@@ -1,0 +1,29 @@
+*{
+            
+       	   	   text-align: center;
+       	   	   color: #FF8C00;
+       	   	   text-shadow: 2px 2px 2px #000;
+       	   	   font-family: arial;
+       	   }
+       	   
+           h2{
+       	   	   text-align: center;
+       	   	   color: #FF8C00;
+       	   }
+       	  
+       
+       	   .texto{
+        	text-align: justify;
+        	font-size: 18px;
+        	font-family: arial;
+       	   }
+       	   
+           figure{
+       	   	text-align: center;
+
+       	  
+       	   }
+       	  
+           hr{
+       	   	max-width: 70%;
+       	   }
